@@ -130,7 +130,7 @@ function runSh(esV) {
 }
 
 program
-    .version('0.1.6')
+    .version('0.1.7')
     .command('init')
     .description('by default, felint will copy the eslint config file, css lint config and git hooks \
       from https://github.com/youzan/felint-config. \
